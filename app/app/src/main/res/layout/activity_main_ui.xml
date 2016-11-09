@@ -17,6 +17,7 @@
         android:layout_height="0dp"
         android:layout_weight="1"
         android:gravity="center"
+        style="@style/textArdroid"
         android:text="ARDUINO MEGA 2560 :: LEDS"/>
 
     <Button
@@ -24,6 +25,7 @@
         android:layout_width="match_parent"
         android:layout_height="0dp"
         android:layout_weight="1"
+        style="@style/textArdroid"
         android:text="TEST"/>
 
     <Button
@@ -31,6 +33,7 @@
         android:layout_width="match_parent"
         android:layout_height="0dp"
         android:layout_weight="1"
+        style="@style/textArdroid"
         android:text="RED"/>
 
     <Button
@@ -38,6 +41,7 @@
         android:layout_width="match_parent"
         android:layout_height="0dp"
         android:layout_weight="1"
+        style="@style/textArdroid"
         android:text="GREEN"/>
 
     <Button
@@ -45,6 +49,7 @@
         android:layout_width="match_parent"
         android:layout_height="0dp"
         android:layout_weight="1"
+        style="@style/textArdroid"
         android:text="YELLOW"/>
 
     <Button
@@ -52,6 +57,7 @@
         android:layout_width="match_parent"
         android:layout_height="0dp"
         android:layout_weight="1"
+        style="@style/textArdroid"
         android:text="ON"/>
 
     <Button
@@ -59,6 +65,7 @@
         android:layout_width="match_parent"
         android:layout_height="0dp"
         android:layout_weight="1"
+        style="@style/textArdroid"
         android:text="OFF"/>
 
     <TextView
@@ -67,6 +74,7 @@
         android:layout_height="0dp"
         android:layout_weight="1"
         android:gravity="center"
+        style="@style/textArdroid"
         android:text="Waiting..."/>
 
 </LinearLayout>

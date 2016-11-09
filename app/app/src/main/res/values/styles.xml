@@ -9,4 +9,12 @@
         <item name="android:windowBackground">@color/myColorApp</item>
     </style>
 
+    <style name="textArdroid">
+        <item name="android:textSize">20dp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:textColor">@android:color/holo_blue_dark</item>
+
+    </style>
+
 </resources>
