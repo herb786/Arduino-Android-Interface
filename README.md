@@ -21,7 +21,7 @@ The aim of this project is to switch leds off or on following the code uploaded 
 
 ![ScreenShot](https://raw.github.com/herb786/Arduino-Android-Interface/master/screenshots/tl_scheme.png)
 ![ScreenShot](https://raw.github.com/herb786/Arduino-Android-Interface/master/screenshots/tl_bb.png)
-![ScreenShot](https://raw.github.com/herb786/Arduino-Android-Interface/master/screenshots/1478656007722.png)
+![ScreenShot](https://raw.github.com/herb786/Arduino-Android-Interface/master/screenshots/1478656007722.jpg)
 
 Acknowledgement
 -----
