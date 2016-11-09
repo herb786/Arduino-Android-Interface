@@ -4,7 +4,7 @@
 # **Ardroid**
 
 This application connects an Arduino board and an Android device. This first app is only a simple project called traffic lights.
-The aim of this project is to switch leds off or on following following the code uploaded to the arduino board.
+The aim of this project is to switch leds off or on following the code uploaded to the arduino board.
 
 ## **Traffic Lights**
 
@@ -16,12 +16,12 @@ The aim of this project is to switch leds off or on following following the code
 4. Android device (JellyBean 4.1)
 5. OTG adapter
 
-Screenshots
+### Screenshots
 -----
 
-![ScreenShot](https://raw.github.com/herb786/ardroid/master/screenshots/tl_scheme.png)
-![ScreenShot](https://raw.github.com/herb786/ardroid/master/screenshots/tl_bb.png)
-![ScreenShot](https://raw.github.com/herb786/ardroid/master/screenshots/1478656007722.png)
+![ScreenShot](https://raw.github.com/herb786/Arduino-Android-Interface/master/screenshots/tl_scheme.png)
+![ScreenShot](https://raw.github.com/herb786/Arduino-Android-Interface/master/screenshots/tl_bb.png)
+![ScreenShot](https://raw.github.com/herb786/Arduino-Android-Interface/master/screenshots/1478656007722.png)
 
 Acknowledgement
 -----
