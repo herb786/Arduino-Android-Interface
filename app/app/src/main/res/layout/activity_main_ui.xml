@@ -17,7 +17,14 @@
         android:layout_height="0dp"
         android:layout_weight="1"
         android:gravity="center"
-        android:text="ARDUINO ONE :: LEDS"/>
+        android:text="ARDUINO MEGA 2560 :: LEDS"/>
+
+    <Button
+        android:id="@+id/testBoard"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:text="TEST"/>
 
     <Button
         android:id="@+id/redLedsOn"

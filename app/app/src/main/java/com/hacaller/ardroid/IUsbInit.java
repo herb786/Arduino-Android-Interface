@@ -7,8 +7,6 @@ package com.hacaller.ardroid;
 public interface IUsbInit {
 
     String ACTION_USB_READY = "USB_READY";
-    String ACTION_USB_ATTACHED = "USB_DEVICE_ATTACHED";
-    String ACTION_USB_DETACHED = "USB_DEVICE_DETACHED";
     String ACTION_USB_NOT_SUPPORTED = "USB_NOT_SUPPORTED";
     String ACTION_NO_USB = "NO_USB";
     String ACTION_USB_PERMISSION_GRANTED = "USB_PERMISSION_GRANTED";
@@ -19,7 +17,9 @@ public interface IUsbInit {
     String ACTION_USB_PERMISSION = "USB_PERMISSION";
 
     int MESSAGE_FROM_SERIAL_PORT = 0;
-    int ARDUINO_VENDOR_ID = 0x2341;
+    int ALERT = 1;
+    int ARDUINO_VID = 0x2341;
+    int ARDUINO_PID = 0x0042;
     int BAUD_RATE = 9600;
 
 }
